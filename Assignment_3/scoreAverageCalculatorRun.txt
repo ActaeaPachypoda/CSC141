@@ -1,0 +1,35 @@
+ 
+  ----jGRASP exec: java scoreAverageCalculator
+ Enter test scores and get the lowest score, the highest score, and the average.
+ Enter 999 to quit
+ Enter a score [0..100] (999 to quit): 21
+ Enter a score [0..100] (999 to quit): 82
+ Enter a score [0..100] (999 to quit): 75
+ Enter a score [0..100] (999 to quit): 113
+        Enter only 0..100 (999 quits): -6
+        Enter only 0..100 (999 quits): 56
+ Enter a score [0..100] (999 to quit): 85
+ Enter a score [0..100] (999 to quit): 186
+        Enter only 0..100 (999 quits): 99
+ Enter a score [0..100] (999 to quit): 100
+ Enter a score [0..100] (999 to quit): 56
+ Enter a score [0..100] (999 to quit): 77
+ Enter a score [0..100] (999 to quit): 73
+ Enter a score [0..100] (999 to quit): 67
+ Enter a score [0..100] (999 to quit): 98
+ Enter a score [0..100] (999 to quit): 88
+ Enter a score [0..100] (999 to quit): 73
+ Enter a score [0..100] (999 to quit): 73
+ Enter a score [0..100] (999 to quit): 63
+ Enter a score [0..100] (999 to quit): 35
+ Enter a score [0..100] (999 to quit): 73
+ Enter a score [0..100] (999 to quit): 97
+ Enter a score [0..100] (999 to quit): 999
+          Results
+ The lowest score is 21
+ The highest score is 100
+ The average score is 73.21
+ There were 19 scores
+ 
+  ----jGRASP: operation complete.
+ 

@@ -1,0 +1,45 @@
+ 
+  ----jGRASP exec: java RomanNumeralConversion
+ Enter an integer in arabic numerals [1...20] and get it converted to Roman numerals.
+ Enter [1...20]: 1
+ The number 1 in Roman Numerals is I.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java RomanNumeralConversion
+ Enter an integer in arabic numerals [1...20] and get it converted to Roman numerals.
+ Enter [1...20]: 5
+ The number 5 in Roman Numerals is V.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java RomanNumeralConversion
+ Enter an integer in arabic numerals [1...20] and get it converted to Roman numerals.
+ Enter [1...20]: 9
+ The number 9 in Roman Numerals is IX.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java RomanNumeralConversion
+ Enter an integer in arabic numerals [1...20] and get it converted to Roman numerals.
+ Enter [1...20]: 33
+ This is an invaild integer, please enter a number between 1 and 20.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java RomanNumeralConversion
+ Enter an integer in arabic numerals [1...20] and get it converted to Roman numerals.
+ Enter [1...20]: -5
+ This is an invaild integer, please enter a number between 1 and 20.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java RomanNumeralConversion
+ Enter an integer in arabic numerals [1...20] and get it converted to Roman numerals.
+ Enter [1...20]: 20
+ The number 20 in Roman Numerals is XX.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java RomanNumeralConversion
+ Enter an integer in arabic numerals [1...20] and get it converted to Roman numerals.
+ Enter [1...20]: 15
+ The number 15 in Roman Numerals is XV.
+  ----jGRASP: operation complete.
+ 

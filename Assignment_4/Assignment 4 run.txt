@@ -1,0 +1,121 @@
+ 
+  ----jGRASP exec: java Methods
+ Enter an integer and a character and get two figures drawn.
+ Enter the size(>0): 1
+ Enter the character: *
+ *
+ 
+ 
+ *
+ *
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Methods
+ Enter an integer and a character and get two figures drawn.
+ Enter the size(>0): 2
+ Enter the character: %
+ %%
+ %%
+ 
+ 
+ %%
+ %%
+ %%
+ %%
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Methods
+ Enter an integer and a character and get two figures drawn.
+ Enter the size(>0): 4
+ Enter the character: +
+ ++++
+ +  +
+ +  +
+ ++++
+ 
+ 
+ ++++
+ +  +
+ +  +
+ +  +
+ +  +
+ +  +
+ +  +
+ ++++
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Methods
+ Enter an integer and a character and get two figures drawn.
+ Enter the size(>0): 8
+ Enter the character:  
+ ********
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ ********
+ 
+ 
+ ********
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ *      *
+ ********
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Methods
+ Enter an integer and a character and get two figures drawn.
+ Enter the size(>0): 16
+ Enter the character: &
+ &&&&&&&&&&
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &&&&&&&&&&
+ 
+ 
+ &&&&&&&&&&
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &        &
+ &&&&&&&&&&
+ 
+  ----jGRASP: operation complete.
+ 
